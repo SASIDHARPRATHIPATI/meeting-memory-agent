@@ -1,0 +1,38 @@
+[
+  {
+    "meeting_id": "M001",
+    "date": "2026-09-01",
+    "client": "Acme Corp",
+    "transcript": "Discovery call with Acme Corp. Client mentioned they are evaluating other vendors. Price was brought up as a concern. They said budget approval is still pending. Overall tone was cautiously interested."
+  },
+  {
+    "meeting_id": "M002",
+    "date": "2026-09-05",
+    "client": "Acme Corp",
+    "transcript": "Follow-up call. Client said they're still waiting on budget. Mentioned a competitor demo is scheduled for next week. They asked about our pricing tiers again. Said they need to justify the spend internally."
+  },
+  {
+    "meeting_id": "M003",
+    "date": "2026-09-10",
+    "client": "Acme Corp",
+    "transcript": "Technical deep dive. Client's engineering team was engaged and positive. But the procurement lead joined late and reiterated budget concerns. They asked if we offer flexible payment terms."
+  },
+  {
+    "meeting_id": "M004",
+    "date": "2026-09-15",
+    "client": "Acme Corp",
+    "transcript": "Check-in call. Client said they are 'evaluating options' and need to justify spend internally. Tone was more hesitant than before. They mentioned a competing vendor offered a discount."
+  },
+  {
+    "meeting_id": "M005",
+    "date": "2026-09-20",
+    "client": "Acme Corp",
+    "transcript": "Client asked about contract flexibility and whether we could do a pilot before full commitment. They said leadership is questioning the ROI. They also asked about our cancellation policy."
+  },
+  {
+    "meeting_id": "M006",
+    "date": "2026-09-25",
+    "client": "Acme Corp",
+    "transcript": "Brief call. Client said they're 'reconsidering priorities' for Q4. Asked if we could delay the start date. Mentioned budget may be reallocated to another initiative."
+  }
+]

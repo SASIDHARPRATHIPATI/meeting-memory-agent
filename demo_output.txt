@@ -1,0 +1,25 @@
+(.venv) PS C:\Users\Sasi\meeting-agent> python meeting_agent.py
+Stored 6 meetings for Acme Corp
+
+New meeting received:
+"Client said they are 'reconsidering the entire initiative' and asked whether we can pause the contract. Leadership is now looking at a cheaper alternative."
+
+Analyzing against memory...
+
+RISK: HIGH
+SIGNALS:
+  - Budget concerns and request for flexible payment terms (≈ 2026‑09‑10)
+  - Competing vendor demo scheduled (week of 2026‑09‑07)
+  - Competing vendor offered a discount (≈ 2026‑09‑15)
+  - Client expressed hesitation and need to justify spend internally (≈ 2026‑09‑15)
+  - Request for contract flexibility and pilot program due to ROI concerns (≈ 2026‑09‑20)
+  - Inquiry about cancellation policy (≈ 2026‑09‑20)
+  - Reconsideration of project priorities and request to delay start, possible budget re‑allocation (≈ 2026‑09‑25)
+  - New request to pause the contract while leadership evaluates cheaper alternatives (≈ 2026‑09‑28)
+
+ACTION: Initiate an executive‑level retention plan – schedule a senior leadership call to co‑create a customized, short‑term pilot with revised, value‑based pricing and clear ROI metrics, while offering a flexible exit clause to alleviate cancellation concerns.
+Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x000001F1F255D3A0>
+Unclosed connector
+connections: ['deque([(<aiohttp.client_proto.ResponseHandler object at 0x000001F1F27CEB30>, 347215.5)])']
+connector: <aiohttp.connector.TCPConnector object at 0x000001F1F2649B20>
